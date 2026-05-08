@@ -11,8 +11,8 @@ The app generates:
 ---
 ## 🚀 Live Demo
 
-### - 🌐 **Streamlit Live App**: https://hackathon2026-azam-khan.streamlit.app/  
-### - 💻 **GitHub Repo**:  https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN.git 
+### - 🌐 **Streamlit Live App**: https://ai-interview-transcript-summarizer.streamlit.app/
+### - 💻 **GitHub Repo**:  https://github.com/AzamKhan5/ai-interview-transcript-summarizer.git
 
 ---
 # Tech Stack
