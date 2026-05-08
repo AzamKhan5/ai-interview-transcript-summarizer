@@ -34,9 +34,8 @@ model = genai.GenerativeModel("gemini-2.5-flash")
 ```text
 project-folder/
 │
-├── app.py
+├── summarizer.py
 ├── requirements.txt
-├── .env
 ├── .gitignore
 ├── README.md
 └── prompt_iterations.md
