@@ -1,0 +1,16 @@
+# API Keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Streamlit cache
+.streamlit/
+
+# Mac files
+.DS_Store
