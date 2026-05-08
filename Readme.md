@@ -89,7 +89,7 @@ Do NOT upload the `.env` file to GitHub.
 # Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run summarizer.py
 ```
 
 After running the command, Streamlit will open the app in your browser.
