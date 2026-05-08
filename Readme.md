@@ -9,7 +9,12 @@ The app generates:
 3. Candidate Summary  
 
 ---
+## 🚀 Live Demo
 
+### - 🌐 **Streamlit Live App**: https://hackathon2026-azam-khan.streamlit.app/  
+### - 💻 **GitHub Repo**:  https://github.com/AzamKhan5/hackathon2026-AZAM-KHAN.git 
+
+---
 # Tech Stack
 
 - Python
